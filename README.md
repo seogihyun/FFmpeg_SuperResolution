@@ -5,7 +5,7 @@
 
 
 ## WARNING
-Maybe You can not operate this code in local server. I recommand you try to operate this code in other server like A100, not local.
+Maybe You can not operate this code in local server. I recommend you try to operate this code in other server like A100, not local.
 
 
 ## Video
