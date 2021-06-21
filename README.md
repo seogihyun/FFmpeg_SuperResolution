@@ -4,13 +4,13 @@
 
 
 
-## Video
+## Video + Audio
 
 ```bash
-python save_video.py --weights_file "./{your weight file}.pth" \
-                     --video_file "./{video file}.mp4" \
-                     --model_name "{your model name}" \
-                     --scale {2 or 3 or 4}
+python video_audio_with_SR.py --weights_file "./{your weight file}.pth" \
+                              --video_file "./{video file}.mp4" \
+                              --model_name "{your model name}" \
+                              --scale {2 or 3 or 4}
 ```
 **[WARNING]**
 Maybe You can not operate this code in your local server. I recommend you to operate this code in other server like A100, not local.
