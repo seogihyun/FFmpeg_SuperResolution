@@ -3,9 +3,6 @@
 
 
 
-## WARNING
-Maybe You can not operate this code in local server. I recommend you to operate this code in other server like A100, not local.
-
 
 ## Video
 
@@ -15,7 +12,8 @@ python save_video.py --weights_file "./{your weight file}.pth" \
                      --model_name "{your model name}" \
                      --scale {2 or 3 or 4}
 ```
-
+**[WARNING]**
+Maybe You can not operate this code in local server. I recommend you to operate this code in other server like A100, not local.
 
 ## Result
 ![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/72849922/122694845-b7b68500-d279-11eb-9977-70f31b87d069.gif)
